@@ -9,3 +9,5 @@ out/
 .idea/
 .vscode/
 *.iml
+
+import_solutions.sh
